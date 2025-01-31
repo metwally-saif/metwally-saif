@@ -1,7 +1,3 @@
-# 💫 About Me:
-As a full stack developer and a cloud development expert, I have designed, developed, and modified software systems and custom components for various projects, using cutting-edge technologies such as AI, blockchain, and cloud services. <br><br>I have worked with leading companies such as TULIPR®, UMX Engineering, and CRMimplant, delivering high-quality solutions that increased user retention, performance, and security. I have also earned the AWS Developer Associate certification, demonstrating my proficiency in AWS cloud development.<br><br>I am currently pursuing a bachelor's degree in computer software engineering at Varna University of Management, where I am learning the latest trends and best practices in software engineering. I am also a diploma holder in engineering technology from MADI University.<br><br>I am passionate about creating innovative and impactful software solutions that solve real-world problems and enhance user experience. I am always eager to learn new skills and technologies, and to collaborate with diverse and talented teams. I am looking for opportunities to apply my skills and knowledge to challenging and rewarding projects in the software industry.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saif-metwally-3828001a9/) 
 
